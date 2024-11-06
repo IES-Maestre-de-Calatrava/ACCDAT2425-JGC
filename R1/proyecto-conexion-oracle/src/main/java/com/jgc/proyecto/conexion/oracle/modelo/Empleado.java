@@ -3,9 +3,9 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package com.jgc.bbddjddc.modelo;
+package com.jgc.proyecto.conexion.oracle.modelo;
 
-import com.jgc.bbddjddc.bbdd.OperacionesBBDD;
+import com.jgc.proyecto.conexion.oracle.bbdd.OperacionesBBDD;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.Optional;

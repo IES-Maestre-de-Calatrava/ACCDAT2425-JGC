@@ -3,7 +3,7 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package com.jgc.bbddjddc.bbdd;
+package com.jgc.proyecto.conexion.oracle.bbdd;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
